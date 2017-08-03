@@ -1,0 +1,2809 @@
+[
+ {
+   "time": "12:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "12:05 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:10 AM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:15 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:20 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:20 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:25 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:30 AM",
+   "van_id": 11,
+   "route": "MH-SHELL-SM",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:40 AM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:45 AM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:55 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "1:05 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:05 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "1:10 AM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:15 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:30 AM",
+   "van_id": 11,
+   "route": "MH-SHELL-SM",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:35 AM",
+   "van_id": 6,
+   "route": "MH-MM-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:35 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:40 AM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:45 AM",
+   "van_id": 7,
+   "route": "MH-MM-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "2:05 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "2:10 AM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:15 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:15 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:30 AM",
+   "van_id": 11,
+   "route": "MH-SHELL-SM",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:35 AM",
+   "van_id": 6,
+   "route": "MH-MM-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:40 AM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:45 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "3:05 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "3:10 AM",
+   "van_id": 7,
+   "route": "MH-MM-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:20 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:30 AM",
+   "van_id": 11,
+   "route": "MH-SHELL-SM",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:40 AM",
+   "van_id": 6,
+   "route": "MH-MM-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:40 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:50 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "4:10 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "4:10 AM",
+   "van_id": 7,
+   "route": "MH-MM-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:25 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:30 AM",
+   "van_id": 11,
+   "route": "MH-SHELL-SM",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:40 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:45 AM",
+   "van_id": 6,
+   "route": "MH-MM-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:00 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:00 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "5:10 AM",
+   "van_id": 7,
+   "route": "MH-MM-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:10 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:10 AM",
+   "van_id": 1,
+   "route": "SL1-SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:15 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "5:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:25 AM",
+   "van_id": 3,
+   "route": "SL1-SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:30 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:40 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:40 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:40 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:40 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:40 AM",
+   "van_id": 2,
+   "route": "SL1-SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:45 AM",
+   "van_id": 4,
+   "route": "G4-SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:45 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:55 AM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:00 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:10 AM",
+   "van_id": 7,
+   "route": "MH-MM-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:10 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "6:10 AM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:10 AM",
+   "van_id": 1,
+   "route": "SL1-SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:15 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:15 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:15 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:25 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "6:25 AM",
+   "van_id": 3,
+   "route": "SL1-SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:30 AM",
+   "van_id": 8,
+   "route": "MH-MM-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:40 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:40 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:40 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:40 AM",
+   "van_id": 2,
+   "route": "SL1-SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:45 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:45 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:45 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:50 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:55 AM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:05 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:10 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "7:10 AM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:10 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:10 AM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:15 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:20 AM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:20 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:20 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:20 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:35 AM",
+   "van_id": 3,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:40 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:45 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "7:50 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:50 AM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:50 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:50 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:50 AM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:55 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:00 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:05 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:15 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "8:20 AM",
+   "van_id": 3,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:25 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:25 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:30 AM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:30 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:30 AM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:30 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:35 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:40 AM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:40 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:50 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:00 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:05 AM",
+   "van_id": 3,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:05 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "9:05 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:10 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:10 AM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:10 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:10 AM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:20 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:25 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "9:25 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:35 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:40 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:45 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:50 AM",
+   "van_id": 3,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:50 AM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:50 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:50 AM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:55 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:00 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:05 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:10 AM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:10 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:15 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:25 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "10:30 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:30 AM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:30 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:30 AM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:35 AM",
+   "van_id": 3,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:35 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "10:40 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:45 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:50 AM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:50 AM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:05 AM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:05 AM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:10 AM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:10 AM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:10 AM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:10 AM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:15 AM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:20 AM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:25 AM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:30 AM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:40 AM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:45 AM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "11:45 AM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "11:50 AM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:50 AM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:50 AM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:50 AM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:50 AM",
+   "van_id": 3,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:55 AM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:00 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:10 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:15 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:20 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:25 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:25 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:30 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:30 PM",
+   "van_id": 3,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:30 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:30 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:30 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "12:35 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:50 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:50 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "12:55 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "1:00 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:05 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:05 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "1:10 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:10 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:10 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:25 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:25 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:30 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:30 PM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:30 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:35 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:40 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:45 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:45 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "1:50 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "1:50 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:05 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:05 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "2:05 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:10 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:10 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:10 PM",
+   "van_id": 3,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:15 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:20 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:25 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "2:30 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:30 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:35 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:40 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:40 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:45 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "2:50 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:50 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "2:55 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:05 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:05 PM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:10 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:10 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:10 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:15 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "3:15 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:20 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:25 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:30 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:30 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:40 PM",
+   "van_id": 3,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:45 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:45 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "3:50 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:50 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:50 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "3:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "3:55 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:00 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:05 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:10 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:20 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:25 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "4:25 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:25 PM",
+   "van_id": 3,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:30 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:30 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:30 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:30 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:35 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:40 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "4:50 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "4:55 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:00 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:05 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:05 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "5:05 PM",
+   "van_id": 3,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:10 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:10 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:10 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:10 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:10 PM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:15 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:30 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:30 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:35 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "5:45 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:45 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:45 PM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:50 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:50 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:50 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "5:50 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "5:50 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:05 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:10 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:10 PM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:15 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:20 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:20 PM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:25 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:25 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "6:30 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:30 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:30 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:30 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:40 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "6:50 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:50 PM",
+   "van_id": 3,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "6:55 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:55 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "6:55 PM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:00 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:10 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:10 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:15 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:15 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:15 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:20 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:30 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:30 PM",
+   "van_id": 12,
+   "route": "MH-G4",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:30 PM",
+   "van_id": 3,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:35 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:35 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:40 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:50 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "7:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "7:50 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "8:05 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:10 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:10 PM",
+   "van_id": 12,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:10 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:10 PM",
+   "van_id": 3,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:15 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "8:20 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:20 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:20 PM",
+   "van_id": 8,
+   "route": "MH-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:25 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:30 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:35 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:40 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:45 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:45 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "8:45 PM",
+   "van_id": 12,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:50 PM",
+   "van_id": 1,
+   "route": "MH-SL1",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "8:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:00 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "9:05 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:10 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:15 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:15 PM",
+   "van_id": 10,
+   "route": "MH-SHELL",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:15 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:20 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:20 PM",
+   "van_id": 1,
+   "route": "SL1-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:20 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:25 PM",
+   "van_id": 12,
+   "route": "SHELL-MM-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:30 PM",
+   "van_id": 11,
+   "route": "MH-SHELL",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:35 PM",
+   "van_id": 7,
+   "route": "MH-SHELL-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:40 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:45 PM",
+   "van_id": 9,
+   "route": "MH-SHELL",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "9:45 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "9:55 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:00 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "10:10 PM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:10 PM",
+   "van_id": 8,
+   "route": "MH-SHELL-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:15 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:15 PM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:15 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:15 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "10:20 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:30 PM",
+   "van_id": 11,
+   "route": "MH-SHELL-G4",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:30 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:35 PM",
+   "van_id": 7,
+   "route": "PROP-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:40 PM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:45 PM",
+   "van_id": 9,
+   "route": "MH-SHELL-G4",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "10:45 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "10:50 PM",
+   "van_id": 5,
+   "route": "MH-G4-SM",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:00 PM",
+   "van_id": 11,
+   "route": "SHELL-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "11:00 PM",
+   "van_id": 8,
+   "route": "PROP-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:05 PM",
+   "van_id": 4,
+   "route": "G4-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:10 PM",
+   "van_id": 12,
+   "route": "MH-MM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:10 PM",
+   "van_id": 6,
+   "route": "MH-PROP",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:15 PM",
+   "van_id": 9,
+   "route": "SHELL-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:15 PM",
+   "van_id": 10,
+   "route": "MH-SHELL-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:20 PM",
+   "van_id": 2,
+   "route": "MH-SL1",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:25 PM",
+   "van_id": 5,
+   "route": "G4-MH",
+   "location": "8 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:25 PM",
+   "van_id": 7,
+   "route": "MH-PROP",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:30 PM",
+   "van_id": 11,
+   "route": "MH-SHELL-G4",
+   "location": "3 wsq",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:40 PM",
+   "van_id": 4,
+   "route": "MH-G4-SM",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:40 PM",
+   "van_id": 12,
+   "route": "MM-MH",
+   "location": "20 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:45 PM",
+   "van_id": 9,
+   "route": "MH-SHELL-G4",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:45 PM",
+   "van_id": 10,
+   "route": "SHELL-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ },
+ {
+   "time": "11:45 PM",
+   "van_id": 8,
+   "route": "MH-SHELL-PROP",
+   "location": "8 bldg",
+   "direction": "OUT"
+ },
+ {
+   "time": "11:45 PM",
+   "van_id": 6,
+   "route": "PROP-MH",
+   "location": "3 wsq",
+   "direction": "IN"
+ },
+ {
+   "time": "11:50 PM",
+   "van_id": 2,
+   "route": "SL1-MH",
+   "location": "20 bldg",
+   "direction": "IN"
+ }
+]

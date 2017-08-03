@@ -1,0 +1,11 @@
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #D1D119;
+}
+
+.table td {
+   text-align: center;   
+}
+
+.table th {
+	background-color: #634a19;
+}
